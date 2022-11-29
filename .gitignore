@@ -1,0 +1,37 @@
+/node_modules
+/__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+*.egg-info
+
+# Environments
+.env
+.venv
+
+# Editors
+.vscode
+.idea
+
+# OS
+.DS_Store
+
+
+# Build
+build/
+dist/
+*.egg
+*.egg-info
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+
+
+
+/migrations/__pycache__
